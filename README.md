@@ -1,7 +1,7 @@
 # SLOT MACHINE
 
 ## Description
-- Basic slot machine game.
+Basic slot machine game.
 
 ## Features
 
