@@ -1,9 +1,15 @@
 # SLOT MACHINE
 
 ## Description
-Basic slot machine game.
+This program provides a basic slot machine game experience where the user can place bets, spin the reels, and potentially win based on matching symbols and predefined rules.
 
 ## Features
+- Spin Functionality
+- Betting and Balance Management
+- Symbol Configuration
+- Win Checking and Reporting
+- User Interaction
+
 
 ## Tools
 
