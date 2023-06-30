@@ -1,4 +1,4 @@
-# SLOT MACHINE
+# 🎰 SLOT MACHINE
 
 ## Description
 This program provides a basic slot machine game experience where the user can place bets, spin the reels, and potentially win based on matching symbols and predefined rules.
